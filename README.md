@@ -1,6 +1,6 @@
 # Ansible Kata
 
-Source: this exercice is base on https://acklenavenue.com/competencies/ops/kata/kata-level1.html
+Source: this exercice is based on https://acklenavenue.com/competencies/ops/kata/kata-level1.html
 
 ## Step 1
 
