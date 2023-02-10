@@ -18,13 +18,10 @@ Write a role to install this project on localhost: https://github.com/abkunal/Ch
 
 Create an ansible role to:
 
-- install nodejs & npm
-- install nginx
+- install nodejs
 - install pm2
 - launch the application with command:
   - pm2 start app.js
-  - pm2 save
-  - pm2 startup
 
 ### Step 4
 
