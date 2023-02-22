@@ -12,7 +12,7 @@ Launch the hello world playbook
 
 ## Step 3
 
-Write a role to install this project on localhost: https://github.com/abkunal/Chat-App-using-Socket.io
+Write a role to install this project on target: https://github.com/abkunal/Chat-App-using-Socket.io
 
 ### Step 3.1
 
@@ -20,6 +20,7 @@ Create an ansible role to:
 
 - install nodejs
 - install pm2
+- clone app https://github.com/abkunal/Chat-App-using-Socket.io in /opt/chat_app
 - launch the application with command:
   - pm2 start app.js
 
